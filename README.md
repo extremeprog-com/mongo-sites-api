@@ -1,6 +1,6 @@
 # mongo-sites-api
 
-## [Attention!] MSA moved to a new repo - https://github.com/extremeprog-com/just
+### [Attention!] MSA moved to a new repo - https://github.com/extremeprog-com/just
 
 A convenient tool for fast prototyping of web and mobile applications.
 
